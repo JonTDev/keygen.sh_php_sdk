@@ -5,6 +5,10 @@
  * @author  Jon Taylor
  * @example Keygen\Settings::getInstance() = include(__DIR__/src/Settings.php);  Settings::getInstance();
  */
+
+// Autoloader for Dependencies.
+include_once(__DIR__ . DIRECTORY_SEPARATOR . 'vendor' . DIRECTORY_SEPARATOR . 'autoload.php');
+
 spl_autoload_register(function ($class) {
 
 
@@ -31,7 +35,7 @@ spl_autoload_register(function ($class) {
 
         // If the file exists.  Include it.
         if(file_exists($classPath)) {
-            include($classPath);
+            include_once($classPath);
         }
     }
 
