@@ -1,0 +1,4 @@
+# Ignoring composer
+vendor
+composer.lock
+.idea

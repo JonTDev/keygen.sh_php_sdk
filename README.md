@@ -10,15 +10,11 @@ I prepared a half way put together SDK for a client previously.  However I am ba
 These are just a couple of the basic project material needed to get this project really moving in the correct direction.  
   
 * PHP Standard Recommendation (PSR)  
-* Checklist Contents  
-  * [Code Style Extended PSR-2](https://github.com/php-fig/fig-standards/blob/master/proposed/extended-coding-style-guide.md)  
-  * Class [PSR-4](https://www.php-fig.org/psr/psr-4/) compliant
-  * Code [PSR-4](https://www.php-fig.org/psr/psr-4/) compliant
 
  - [X] Setup Project  
- - [ ] Create a checklist for each PHP page.  
- - [ ]  Monolog to ensure [PSR-3](https://www.php-fig.org/psr/psr-3/) compliant.
- - [ ]  Autoloader Setup [PSR-4](https://www.php-fig.org/psr/psr-4/) compliant
+ - [X] Passing code through code climate.
+ - [ ] Monolog to ensure [PSR-3](https://www.php-fig.org/psr/psr-3/) compliant.
+ - [ ] Autoloader Setup [PSR-4](https://www.php-fig.org/psr/psr-4/) compliant
  - [ ] Guzzle to ensure we are [PSR-7](https://www.php-fig.org/psr/psr-7/) compliant  
  - [ ] Create Issue and Pull Request Templates  
  - [ ] Documentation styled like Slate or using Slate.  
