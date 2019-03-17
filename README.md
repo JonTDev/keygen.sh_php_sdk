@@ -13,7 +13,7 @@ These are just a couple of the basic project material needed to get this project
   * [PSR-4](https://www.php-fig.org/psr/psr-4/)
  - [ ] Setup Project
  - [ ] Create a checklist for each PHP page.
- - [ ]  Logger Setup [PSR-3]https://www.php-fig.org/psr/psr-3/)
+ - [ ]  Logger Setup [PSR-3](https://www.php-fig.org/psr/psr-3/)
  - [ ]  Autoloader Setup [PSR-4](https://www.php-fig.org/psr/psr-4/)
  - [ ] Guzzle to ensure we are [PSR-7](https://www.php-fig.org/psr/psr-7/) Compliant
  - [ ] Create Issue and Pull Request Templates
